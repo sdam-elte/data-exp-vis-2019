@@ -1,7 +1,10 @@
 # Course description
 
-The *Data exploration and visualization* course consists of several introductory tutorials for various data acquisition, exploration and visualization techniques. 
-There are some well established 
+The *Data exploration and visualization* course consists of several tutorials and excersise as an introductor for various data retrieval, exploration and visualization techniques. 
+There are many databases, which are publicly available or have limited access and use different services to deal with user queries. One commonly used method is when users can communicate via SQL queries. This is more efficient in case of larger dataqueries, when download time depends on the query script. Other method is to run a REST service that translates user queries to the database. This is easier to use and has it's own advantages.
+The retrieved raw data is almost never as clean as we want it to be. It can have unexpected values due to measurement failure or for other reasons. In fact on average 50% effort of data exploration goes into understanding data and its cleaning.
+
+Once data is digested one faces with many options in visualization, which all have their pros and cons. 
 
 We will cover X topics during this course. For each topic there will be an assignment, which need to be completed individually. The deadlines for the submissions and all related information will be in each topics' folder.
 
