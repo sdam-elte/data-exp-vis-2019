@@ -23,3 +23,9 @@ The schedule is the following:
 9.  04.26. Astro
 10. 05.03. 3D Visualization
 11. 05.17. Consultation
+
+### Where to work on the assignments?
+https://kooplex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students and once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
+We will explain how to use this portal on the first lecture.
+You can access this portal from outside the university as well e.g. from home. In case there is any problem with the portal you can run a notebook server locally on the lab computers and upload your work later.
+
