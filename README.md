@@ -13,14 +13,14 @@ There is a one hour lecture followed by a break and two hour laboratory. Each oc
 
 The schedule is the following:
 1.  02.15. USGS water discharge statistics - pandas, REST query with curl 
-2.  02.22. SQL queries on an NBA database - SQL
-3.  03.01. Following Jon Snow - geopandas, shapely, folium
+2.  02.22. SQL queries on an NBA database - [SQL][1] part I
+3.  03.01. SQL queries on an NBA database - [SQL][1] part II
 4.  03.08. Network exploration - networkx
 5.  03.22. Natural Language Processing on tweets
 6.  03.29. REST services - Github, jupyter-kernelgateway
 7.  04.05. Visualization - bokeh, holoviews, interactive reports
 8.  04.12. Astro
-9.  04.26. Astro
+9.  04.26. Following Jon Snow - geopandas, shapely, folium
 10. 05.03. 3D Visualization
 11. 05.17. Consultation
 
@@ -28,4 +28,9 @@ The schedule is the following:
 https://kooplex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students and once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
 We will explain how to use this portal on the first lecture.
 You can access this portal from outside the university as well e.g. from home. In case there is any problem with the portal you can run a notebook server locally on the lab computers and upload your work later.
+
+### Learning materials
+* Python tutorial link
+* [1]: https://www.w3schools.com/sql/ SQL tutorial
+
 
