@@ -13,8 +13,8 @@ There is a one hour lecture followed by a break and two hour laboratory. Each oc
 
 The schedule is the following:
 1.  02.15. USGS water discharge statistics - pandas, REST query with curl 
-2.  02.22. SQL queries on an NBA database - [SQL][1] part I
-3.  03.01. SQL queries on an NBA database - [SQL][1] part II
+2.  02.22. SQL queries on an NBA database - SQL part I
+3.  03.01. SQL queries on an NBA database - SQL part II
 4.  03.08. Network exploration - networkx
 5.  03.22. Natural Language Processing on tweets
 6.  03.29. REST services - Github, jupyter-kernelgateway
@@ -31,6 +31,8 @@ You can access this portal from outside the university as well e.g. from home. I
 
 ### Learning materials
 * Python tutorial link
-* [1]: https://www.w3schools.com/sql/ SQL tutorial
+* SQL tutorial: https://www.w3schools.com/sql/ 
+* RESTful service: https://en.wikipedia.org/wiki/Representational_state_transfer
+
 
 
