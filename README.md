@@ -30,7 +30,7 @@ We will explain how to use this portal on the first lecture.
 You can access this portal from outside the university as well e.g. from home. In case there is any problem with the portal you can run a notebook server locally on the lab computers and upload your work later.
 
 ### Learning materials
-* Python tutorial link
+* Python tutorial: http://bokae.web.elte.hu/numerical_methods.html (by Eszter Bokányi, work in progress )
 * SQL tutorial: https://www.w3schools.com/sql/ 
 * RESTful service: https://en.wikipedia.org/wiki/Representational_state_transfer
 
