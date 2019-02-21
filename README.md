@@ -14,17 +14,17 @@ The course is held in the North Building in computer lab 5.56 on fridays between
 There is a one hour lecture followed by a break and two hour laboratory work. Each occasion starts with an introduction to the current topic, like a hands-on session with the prepared notebooks, and then the remaining time is consultation, when lecturers will be available to help with the assignments. 
 
 The schedule is the following:
-1.  02.15. [USGS water discharge statistics](USGS-waterdata-curl-pandas) - pandas, REST query with curl - due 21.03.2019 
-2.  02.22. [SQL queries on an NBA database](Basketball_League-SQL) - SQL part I 
-3.  03.01. [SQL queries on an NBA database](Basketball_League-SQL) - SQL part II - due 28.03.2019 
-4.  03.08. [Network exploration](Networkx) - networkx
-5.  03.22. [Natural Language Processing on tweets](NLP_on_tweets)
-6.  03.29. [REST services](REST-services) - Github, jupyter-kernelgateway
-7.  04.05. [Visualization](Interactive_Visualization) - bokeh, holoviews, interactive reports
-8.  04.12. Astrophysics
-9.  04.26. [Following Jon Snow](Jon_Snow-geopandas-folium-shapely) - geopandas, shapely, folium
-10. 05.03. [3D Visualization]( 	3d_Visualization)
-11. 05.17. Consultation
+1.  15.02.2019. **[USGS water discharge statistics](USGS-waterdata-curl-pandas)** - due 21.03.2019. 
+2.  22.02.2019. **[SQL queries on an NBA database](Basketball_League-SQL) I** 
+3.  01.03.2019. **[SQL queries on an NBA database](Basketball_League-SQL) II** - due 28.03.2019.
+4.  08.03.2019. **[Network exploration](Networkx)** - due 04.04.2019.
+5.  22.03.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** - due 11.04.2019. 
+6.  29.03.2019. **[REST services](REST-services)** - due 25.04.2019.
+7.  05.04.2019. **[Visualization](Interactive_Visualization)** - due 04.05.2019.
+8.  12.04.2019. **Astrophysics** - due 11.05.2019.
+9.  26.04.2019. **[Following Jon Snow](Jon_Snow-geopandas-folium-shapely)** - due 23.05.2019.
+10. 05.03.2019. **[3D Visualization]( 	3d_Visualization)** - due 30.05.2019.
+11. 05.17.2019. **Consultation**
 
 ### Where to work on the assignments?
 https://kooplex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students and once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
