@@ -1,14 +1,17 @@
-### Statistics of water data
+## Statistics of water discharge of natural rivers
 
-In this excercise we will select a few natural rivers and retrieve their data via a REST service. For data retrieval we use either curl from command line or pycurl from the notebook.
+In this excercise we will select a few natural rivers and retrieve their data via a REST service. For data retrieval we use either *curl* from command line or *pycurl* from the notebook.
 
 #### What is curl
 "cURL is a tool to transfer data from or to a server, using one of the supported protocols (DICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP). The command is designed to work without user interaction."
 
-### USGS water data are available at https://waterdata.usgs.gov/nwis
-Please visit this site and explore it.
+USGS water data are available at https://waterdata.usgs.gov/nwis, please visit this site and explore it. It is possible to download data by clicking on the website, but for retrieving large amount of data systematically is cumbersome this way. 
+That's why we will learn how to use the datahub's REST service. [REST services](../REST-services) will be covered in detail later.
 
-There is a tutorial notebook to show the basic tools and their functionalities. To complete the tasks in the worksheet.ipynb you might need to use other tools or packages and there might be multiple good solutions.
+There is a tutorial notebook to show the basic tools and their functionalities.
 
-## Deadline
+### Tasks
+Complete the tasks in the worksheet.ipynb! You might need to use other tools or packages and there might be multiple acceptable solutions.
+
+### Deadline
 This assignment is due 21. March 2019.
