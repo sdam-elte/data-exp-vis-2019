@@ -14,16 +14,16 @@ The course is held in the North Building in computer lab 5.56 on fridays between
 There is a one hour lecture followed by a break and two hour laboratory work. Each occasion starts with an introduction to the current topic, like a hands-on session with the prepared notebooks, and then the remaining time is consultation, when lecturers will be available to help with the assignments. 
 
 The schedule is the following:
-1.  15.02.2019. **[USGS water discharge statistics](USGS-waterdata-curl-pandas)** - due 21.03.2019. 
+1.  15.02.2019. **[USGS water discharge statistics](USGS-waterdata-curl-pandas)** - due on 21.03.2019. 
 2.  22.02.2019. **[SQL queries on an NBA database](Basketball_League-SQL) I** 
-3.  01.03.2019. **[SQL queries on an NBA database](Basketball_League-SQL) II** - due 28.03.2019.
-4.  08.03.2019. **[Network exploration](Networkx)** - due 04.04.2019.
-5.  22.03.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** - due 11.04.2019. 
-6.  29.03.2019. **[REST services](REST-services)** - due 25.04.2019.
-7.  05.04.2019. **[Visualization](Interactive_Visualization)** - due 04.05.2019.
-8.  12.04.2019. **Astrophysics** - due 11.05.2019.
-9.  26.04.2019. **[Following Jon Snow](Jon_Snow-geopandas-folium-shapely)** - due 23.05.2019.
-10. 05.03.2019. **[3D Visualization]( 	3d_Visualization)** - due 30.05.2019.
+3.  01.03.2019. **[SQL queries on an NBA database](Basketball_League-SQL) II** - due on 28.03.2019.
+4.  08.03.2019. **[Network exploration](Networkx)** - due on 04.04.2019.
+5.  22.03.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** - due on 11.04.2019. 
+6.  29.03.2019. **[REST services](REST-services)** - due on 25.04.2019.
+7.  05.04.2019. **[Visualization](Interactive_Visualization)** - due on 04.05.2019.
+8.  12.04.2019. **Astrophysics** - due on 11.05.2019.
+9.  26.04.2019. **[Following Jon Snow](Jon_Snow-geopandas-folium-shapely)** - due on 23.05.2019.
+10. 05.03.2019. **[3D Visualization]( 	3d_Visualization)** - due on 30.05.2019.
 11. 05.17.2019. **Consultation**
 
 ### Where to work on the assignments?
