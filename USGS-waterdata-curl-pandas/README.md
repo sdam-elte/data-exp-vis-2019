@@ -9,3 +9,6 @@ In this excercise we will select a few natural rivers and retrieve their data vi
 Please visit this site and explore it.
 
 There is a tutorial notebook to show the basic tools and their functionalities. To complete the tasks in the worksheet.ipynb you might need to use other tools or packages and there might be multiple good solutions.
+
+## Deadline
+This assignment is due 21. March 2019.
