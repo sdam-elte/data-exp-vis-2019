@@ -8,10 +8,8 @@ In this excercise we will select a few natural rivers and retrieve their data vi
 USGS water data are available at https://waterdata.usgs.gov/nwis, please visit this site and explore it. It is possible to download data by clicking on the website, but for retrieving large amount of data systematically is cumbersome this way. 
 That's why we will learn how to use the datahub's REST service. [REST services](../REST-services) will be covered in detail later.
 
-There is a tutorial notebook to show the basic tools and their functionalities.
+There is a tutorial notebook to show the basic tools and their functionalities. We load the data into a *pandas* Dataframe and clean it using *pandas* functions.
 
 ### Tasks
 Complete the tasks in the worksheet.ipynb! You might need to use other tools or packages and there might be multiple acceptable solutions.
 
-### Deadline
-This assignment is due 21. March 2019.
