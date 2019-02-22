@@ -40,5 +40,3 @@ You can access this portal from outside the university as well e.g. from home. I
 ### Requirements and grading
 There will be an assignment for ech of the 9 topics, which need to be completed individually. The deadlines for the submissions are shown next to the topic and all related information will be in the topics' folder. There are no strict deadlines, however we advise students to keep them in order to be able to complete all tasks.
 
-## Grading
-
