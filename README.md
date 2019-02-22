@@ -7,8 +7,9 @@ The retrieved raw data is almost never as clean as we want it to be. It can have
 Once data is digested one faces with many options in visualization, which all have their pros and cons. 
 In this course we intend to introduce state of the art tools and methods in data exploration and visualization. This field evolves rapidly, like Jupyter notebooks didn't exist some years ago, but some of the programming languages and platforms proved efficient and/or easy to use and became widely used.
 
-We will cover various packages in python and use SQL topics during this course. 
-Each of the assignments will be a combination of these tools. 
+We will cover various [packages in python][http://bokae.web.elte.hu/numerical_methods.html] and introduce  [SQL][https://www.w3schools.com/sql/ ]. The types of plotting methods (when and how to use) will be explained and there will be examples of visualization packages that can be used in the jupyter notebooks or which create standalone, portable applications. It will be also shown how can we share these plots or how to embed into webpages. 
+
+Each of the assignments will be a combination of theabove mentioned tools. 
 
 The course is held in the North Building in computer lab 5.56 on fridays between 11:15 and 14:00.
 There is a one hour lecture followed by a break and two hour laboratory work. Each occasion starts with an introduction to the current topic, like a hands-on session with the prepared notebooks, and then the remaining time is consultation, when lecturers will be available to help with the assignments. 
@@ -35,8 +36,9 @@ You can access this portal from outside the university as well e.g. from home. I
 * Python tutorial: http://bokae.web.elte.hu/numerical_methods.html (translated from the BSc course "numerical methods in physics I" by Eszter Bokányi, work in progress )
 * SQL tutorial: https://www.w3schools.com/sql/ 
 * RESTful service: https://en.wikipedia.org/wiki/Representational_state_transfer
-* 
+* Networkx: https://networkx.github.io/
 
-### Requirements and grading
-There will be an assignment for ech of the 9 topics, which need to be completed individually. The deadlines for the submissions are shown next to the topic and all related information will be in the topics' folder. There are no strict deadlines, however we advise students to keep them in order to be able to complete all tasks.
+### Requirements
+There will be an assignment for ech of the 9 topics, which need to be completed individually. The deadlines for the submissions are shown next to the topic and all related information will be in the topics' folder. These are not strict deadlines, however we advise students to keep them in order to be able to complete all tasks.
 
+The **minimum requirement** for this course is to submit all assignments with at least some completed tasks. In each worksheet or assignment the first couple of tasks follow the excercises explained in the given tutorial files.
