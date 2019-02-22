@@ -7,7 +7,9 @@ The retrieved raw data is almost never as clean as we want it to be. It can have
 Once data is digested one faces with many options in visualization, which all have their pros and cons. 
 In this course we intend to introduce state of the art tools and methods in data exploration and visualization. This field evolves rapidly, like Jupyter notebooks didn't exist some years ago, but some of the programming languages and platforms proved efficient and/or easy to use and became widely used.
 
-We will cover various [packages in python][http://bokae.web.elte.hu/numerical_methods.html] and introduce  [SQL][https://www.w3schools.com/sql/ ]. The types of plotting methods (when and how to use) will be explained and there will be examples of visualization packages that can be used in the jupyter notebooks or which create standalone, portable applications. It will be also shown how can we share these plots or how to embed into webpages. 
+We will cover various [packages in python](http://bokae.web.elte.hu/numerical_methods.html) and introduce
+[SQL](https://www.w3schools.com/sql/). The types of plotting methods (when and how to use) will be explained and there will be examples of visualization packages 
+that can be used in the jupyter notebooks or which create standalone, portable applications. It will be also shown how can we share these plots or how to embed into webpages. 
 
 Each of the assignments will be a combination of theabove mentioned tools. 
 
