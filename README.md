@@ -20,7 +20,7 @@ The schedule is the following:
 1.  15.02.2019. **[USGS water discharge statistics](USGS-waterdata-curl-pandas)** - due on 21.03.2019. 
 2.  22.02.2019. **[SQL queries on an NBA database](Basketball_League-SQL) I** 
 3.  01.03.2019. **[SQL queries on an NBA database](Basketball_League-SQL) II** - due on 28.03.2019.
-4.  08.03.2019. **[Following Jon Snow](Jon_Snow-geopandas-folium-shapely)** - due on 04.04.2019.
+4.  08.03.2019. **[Following Jon Snow](John_Snow-geopandas-folium-shapely)** - due on 04.04.2019.
 5.  22.03.2019. **[REST services](REST-services)** - due on 25.04.2019.
 6.  29.03.2019. **[Visualization](Interactive_Visualization)** 
 7.  05.04.2019. **Astrophysics** 
