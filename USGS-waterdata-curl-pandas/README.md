@@ -13,3 +13,7 @@ There is a tutorial notebook to show the basic tools and their functionalities. 
 ### Tasks
 Complete the tasks in the worksheet.ipynb! You might need to use other tools or packages and there might be multiple acceptable solutions.
 
+### Further Reading
+
+- Probability and statistics for geophysical processes: https://www.itia.ntua.gr/en/docinfo/1322/
+- On the probability distribution of daily streamflow in the UnitedStates : https://engineering.tufts.edu/cee/people/vogel/documents/2017_probabilityDistribution.pdf
