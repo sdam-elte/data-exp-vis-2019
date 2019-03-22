@@ -4,9 +4,9 @@
 * HTTP protocol
 * What is an API
 * Tutorial with Airvisual's API
-* Task 1: Use the Twitter API to retrieve tweets
+* Task 1a: Use the Twitter API to retrieve tweets
+* Task 1b: Use the Github API to manage your account
 * Task 2: Build an API with the jupyter-kernelgateway
-* (Github API)
 
 
 
