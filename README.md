@@ -23,10 +23,10 @@ The schedule is the following:
 4.  08.03.2019. **[Following John Snow](John_Snow-geopandas-folium-shapely)** - due on 04.04.2019.
 5.  22.03.2019. **[REST services](REST-services)** - due on 25.04.2019.
 6.  29.03.2019. **[Visualization](Interactive_Visualization)** 
-7.  05.04.2019. **Astrophysics** 
-8.  12.04.2019. **[Network exploration](Networkx)** 
-9.  26.04.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** 
-10. 05.03.2019. **[3D Visualization]( 	3d_Visualization)** 
+7.  05.04.2019. **[3D Visualization](3d_Visualization)**
+8.  12.04.2019. **[Network exploration](Networkx)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7.
+09. 26.04.2019. **Astrophysics**
+10. 05.03.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals.
 11. 05.17.2019. **Consultation**
 
 ### Where to work on the assignments?
