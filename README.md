@@ -45,6 +45,10 @@ There will be an assignment for ech of the 9 topics, which need to be completed 
 
 The **minimum requirement** for this course is to submit all assignments with at least some completed tasks. In each worksheet or assignment the first couple of tasks follow the excercises explained in the given tutorial files.
 
+### Grading
+
+Each assignment get's corrected and a maximum of 10 points can be given. The points will reflect how many worksheets/subtasks are completed,  the quality of the solutions and/or the clarity of the presentation of the work.
+
 ### Example Datasets
 
 In the */home/course/public/Dataset* directory you will find datasets, that you can work with.
