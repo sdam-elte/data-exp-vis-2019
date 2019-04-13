@@ -5,7 +5,12 @@
 * What is an API
 * Tutorial with Airvisual's API
 * Task 1a: Use the Twitter API to retrieve tweets
+
+or
+
 * Task 1b: Use the Github API to manage your account
+
+
 * Task 2: Build an API with the jupyter-kernelgateway. *The worksheet in the handout had a wrong tasklist. Please, complete this task according the following instructions!*
   * Create an API with 4 endpoints
     * */help* returns with the help/usage of the other 3 endpoints
@@ -17,6 +22,7 @@
     * https://catalog.data.gov/dataset/crimes-2001-to-present-398a4
     * https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002
 
+**From Task 1** choose only a, or b,!
 
 **For Task 2** Everyone should delete the container and start a new one, because the python packages were updated. Those who work on any other device they need to have the following package installed:
 * jupyter_kernel_gateway==2.1.0
