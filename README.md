@@ -25,7 +25,7 @@ The schedule is the following:
 6.  29.03.2019. **[Visualization](Interactive_Visualization)** 
 7.  05.04.2019. **[3D Visualization](3d_Visualization)**
 8.  12.04.2019. **[Network exploration](Networkx)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7.
-09. 26.04.2019. **Astrophysics**
+09. 26.04.2019. **[Data extraction from images](ImageExploration)**
 10. 03.05.2019. **[Natural Language Processing on tweets](NLP_on_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals.
 11. 17.05.2019. **Consultation**
 
