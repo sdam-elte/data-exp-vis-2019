@@ -1,0 +1,8 @@
+# This is a sample file for illustration purposes.
+# This is a comment line.
+But this is not, it just happens to contain a '#'.
+.3
+.4
+.64
+1.45
+2.5
