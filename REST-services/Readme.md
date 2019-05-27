@@ -27,8 +27,25 @@ or
 **For Task 2** Everyone should delete the container and start a new one, because the python packages were updated. Those who work on any other device they need to have the following package installed:
 * jupyter_kernel_gateway==2.1.0
 
-
-
 HTTP functions as a request–response protocol in the client–server computing model
 https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
 
+### Transferring images - some help
+
+You can only send text via the api. This data needs to be downloaded and converted back.
+
+curl https://kooplex-edu.elte.hu/notebook/wfct0p-dataexplvisu/report/img > img.png
+
+And this is how you convert it back to png
+``` python
+import base64
+import json
+
+with open("img.png",'r') as i:
+    imgstr = json.loads(i.read())
+    img_encoded = base64.decodebytes(imgstr.encode())
+
+    # Then maybe write it to a file
+    with open("t.png",'wb') as t:
+        t.write(img_encoded)
+```
