@@ -59,4 +59,4 @@ The final grades will be given according to the following pointsystem:<br><br>
 
 ### Example Datasets
 
-In the */home/course/public/Dataset* directory you will find datasets, that you can work with.
+In the */home/course/Datasets* directory you will find datasets, that you can work with.
