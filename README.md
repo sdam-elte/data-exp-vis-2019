@@ -50,6 +50,12 @@ The resulting worksheets should look like a **report**. All figures should have 
 ### Grading
 
 Each assignment get's corrected and a maximum of 10 points can be given. The points will reflect how many worksheets/subtasks are completed,  the quality of the solutions and/or the clarity of the presentation of the work.
+The final grades will be given according to the following pointsystem:<br><br>
+0 - 30: failed<br>
+31 - 39: 2<br>
+40 - 53: 3<br>
+54 - 69: 4<br>
+70 - 90: 5<br>
 
 ### Example Datasets
 
