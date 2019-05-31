@@ -53,9 +53,9 @@ Each assignment get's corrected and a maximum of 10 points can be given. The poi
 The final grades will be given according to the following pointsystem:<br><br>
 0 - 30: failed<br>
 31 - 39: 2<br>
-40 - 53: 3<br>
-54 - 69: 4<br>
-70 - 90: 5<br>
+40 - 51: 3<br>
+52 - 64: 4<br>
+65 - 90: 5<br>
 
 ### Example Datasets
 
